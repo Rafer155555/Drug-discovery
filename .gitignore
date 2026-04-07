@@ -1,0 +1,13 @@
+# Python and Jupyter Ignores
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data, models, and results directories
+/data/
+/models/
+/results/
