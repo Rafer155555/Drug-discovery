@@ -1,0 +1,9 @@
+TensorFlow
+NumPy
+Pandas
+scikit-learn
+Biopython
+matplotlib
+seaborn
+jupyter
+scipy
